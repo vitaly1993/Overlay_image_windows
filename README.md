@@ -30,3 +30,8 @@
 ```bash
   python test_overlay.py
 ```
+
+
+## Пример результата работы скрипта
+
+![Пример изображения](image/Readme.png)
